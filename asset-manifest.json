@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/accessible-job-tracker/static/css/main.22bbe74c.css",
-    "main.js": "/accessible-job-tracker/static/js/main.3d5f6275.js",
+    "main.css": "/accessible-job-tracker/static/css/main.f4a8e42d.css",
+    "main.js": "/accessible-job-tracker/static/js/main.3762fbe5.js",
     "index.html": "/accessible-job-tracker/index.html",
-    "main.22bbe74c.css.map": "/accessible-job-tracker/static/css/main.22bbe74c.css.map",
-    "main.3d5f6275.js.map": "/accessible-job-tracker/static/js/main.3d5f6275.js.map"
+    "main.f4a8e42d.css.map": "/accessible-job-tracker/static/css/main.f4a8e42d.css.map",
+    "main.3762fbe5.js.map": "/accessible-job-tracker/static/js/main.3762fbe5.js.map"
   },
   "entrypoints": [
-    "static/css/main.22bbe74c.css",
-    "static/js/main.3d5f6275.js"
+    "static/css/main.f4a8e42d.css",
+    "static/js/main.3762fbe5.js"
   ]
 }
