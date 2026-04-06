@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/accessible-job-tracker/static/css/main.22bbe74c.css",
+    "main.js": "/accessible-job-tracker/static/js/main.8a3f77e3.js",
+    "index.html": "/accessible-job-tracker/index.html",
+    "main.22bbe74c.css.map": "/accessible-job-tracker/static/css/main.22bbe74c.css.map",
+    "main.8a3f77e3.js.map": "/accessible-job-tracker/static/js/main.8a3f77e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22bbe74c.css",
+    "static/js/main.8a3f77e3.js"
+  ]
+}
